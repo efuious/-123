@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536549527 source:c:\users\efuious\desktop\programe\choujiang\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1536561904 source:c:\users\10584\desktop\新建文件夹\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
